@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jasik\Desktop\programy\C++\Pokemone_clone\</FILEPATH>
+      <FILENAME>System.cpp</FILENAME>
+      <LINE>229</LINE>
+      <COLUMN>56</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '+' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '+' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>System::playerControl</FUNCTION>
+    <DECORATED>?playerControl@System@@AEAAXXZ</DECORATED>
+    <FUNCLINE>214</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jasik\Desktop\programy\C++\Pokemone_clone\</FILEPATH>
+      <FILENAME>System.cpp</FILENAME>
+      <LINE>253</LINE>
+      <COLUMN>96</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '+' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '+' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>System::playerControl</FUNCTION>
+    <DECORATED>?playerControl@System@@AEAAXXZ</DECORATED>
+    <FUNCLINE>214</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jasik\Desktop\programy\C++\Pokemone_clone\</FILEPATH>
+      <FILENAME>System.cpp</FILENAME>
+      <LINE>285</LINE>
+      <COLUMN>60</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '+' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '+' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>System::npcControl</FUNCTION>
+    <DECORATED>?npcControl@System@@AEAAXPEAVNpc@@@Z</DECORATED>
+    <FUNCLINE>268</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jasik\Desktop\programy\C++\Pokemone_clone\</FILEPATH>
+      <FILENAME>System.cpp</FILENAME>
+      <LINE>309</LINE>
+      <COLUMN>89</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '+' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '+' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>System::npcControl</FUNCTION>
+    <DECORATED>?npcControl@System@@AEAAXPEAVNpc@@@Z</DECORATED>
+    <FUNCLINE>268</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT></DEFECTS>
